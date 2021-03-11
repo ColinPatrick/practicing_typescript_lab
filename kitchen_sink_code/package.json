@@ -1,0 +1,24 @@
+{
+  "name": "kitchen_sink_code",
+  "version": "1.0.0",
+  "description": "JavaScript Kitchen Sink\r The objective of this lab assignment is to practice using the fundamentals of JavaScript that were explored in lecture.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ColinPatrick/kitchen_sink_code.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ColinPatrick/kitchen_sink_code/issues"
+  },
+  "homepage": "https://github.com/ColinPatrick/kitchen_sink_code#readme",
+  "dependencies": {
+    "typescript": "^4.2.3"
+  }
+}

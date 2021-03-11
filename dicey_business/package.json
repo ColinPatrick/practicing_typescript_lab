@@ -1,0 +1,24 @@
+{
+  "name": "dicey_business",
+  "version": "1.0.0",
+  "description": "Practicing TypeScript\r The purpose of this lab(s) is to help familiarize you with TypeScript.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ColinPatrick/dicey_business.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ColinPatrick/dicey_business/issues"
+  },
+  "homepage": "https://github.com/ColinPatrick/dicey_business#readme",
+  "dependencies": {
+    "typescript": "^4.2.3"
+  }
+}
